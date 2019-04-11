@@ -1,0 +1,16 @@
+h1  {
+    font-size: 3cm;
+    color: rgb(54, 136, 98);
+    text-align: center;
+    
+    
+}
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    
+    
+}
+li {
+    display: inline;
+}
